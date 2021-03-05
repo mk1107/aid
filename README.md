@@ -1,6 +1,6 @@
 # aid
 
-A new Flutter application.
+A Flutter application to do preliminary eye and ear test.
 
 ## Getting Started
 
